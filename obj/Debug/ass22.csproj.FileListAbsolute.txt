@@ -1,0 +1,8 @@
+D:\ass22\ass22\bin\Debug\ass22.exe.config
+D:\ass22\ass22\bin\Debug\ass22.exe
+D:\ass22\ass22\bin\Debug\ass22.pdb
+D:\ass22\ass22\obj\Debug\ass22.csproj.AssemblyReference.cache
+D:\ass22\ass22\obj\Debug\ass22.csproj.SuggestedBindingRedirects.cache
+D:\ass22\ass22\obj\Debug\ass22.csproj.CoreCompileInputs.cache
+D:\ass22\ass22\obj\Debug\ass22.exe
+D:\ass22\ass22\obj\Debug\ass22.pdb
